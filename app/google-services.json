@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "638883323403",
+    "project_id": "surf-alarm-d62bd",
+    "storage_bucket": "surf-alarm-d62bd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638883323403:android:59006568cfba1cf89af10e",
+        "android_client_info": {
+          "package_name": "com.surfalarm.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBk4POuPdTXxQVDMGtZFwevULlGurr4Smk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

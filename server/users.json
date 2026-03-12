@@ -1,0 +1,14 @@
+[
+  {
+    "expoPushToken": null,
+    "name": "Surfer",
+    "beach": {
+      "id": 3,
+      "name": "Hilton Beach, Tel Aviv",
+      "lat": 32.0905,
+      "lon": 34.7693
+    },
+    "waveSettings": null,
+    "registeredAt": "2026-03-11T11:36:57.966Z"
+  }
+]
