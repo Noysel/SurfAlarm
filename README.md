@@ -8,12 +8,12 @@ Built for surfers on the Israeli coast.
 
 ## How It Works
 
-Every evening when you open the app, it fetches tomorrow's forecast and schedules your alarm automatically. No need to check anything — just go to sleep and let it decide.
+Every morning at 05:45, the server fetches the day's surf forecast and sends you a push notification. Your phone then rings at the right time — no need to check anything the night before.
 
 - **Waves are good** → alarm rings at 06:00
 - **Waves are flat** → alarm rings at 08:00 (sleep in)
 
-At 05:45 the server also runs a background check and sends a push notification confirming the alarm time.
+A keep-alive ping hits the server at 05:40 to ensure it's awake and ready before the 05:45 check runs.
 
 ---
 
